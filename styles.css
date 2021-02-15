@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+}
+.cabecera {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: royalblue;
+  margin: 0px;
+  padding: 30px 10px;
+}
+
+header li:hover {
+  text-decoration: underline;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+  list-style-type: disc;
+  padding: 20px 10px;
+}
+
+ul {
+  list-style: none;
+  flex-direction: row;
+  display: flex;
+}
