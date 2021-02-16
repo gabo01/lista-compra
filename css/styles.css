@@ -69,3 +69,21 @@ text-decoration: underline;
 .cabecera nav .actual {
   font-weight: bold;
 }
+
+section {
+  margin: 0px;
+  background-color: #ff8d27;
+}
+
+h2 {
+  padding: 20px;
+}
+
+.Editar {
+  padding: 20px;
+}
+
+label {
+  display: block;
+  width: 10px;
+}
